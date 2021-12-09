@@ -1,0 +1,14 @@
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.exe
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.deps.json
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.runtimeconfig.json
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.runtimeconfig.dev.json
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.dll
+F:\Program\Library.Net\WinFormsAspCore\bin\Debug\netcoreapp3.1\WinFormsAspCore.pdb
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.csproj.AssemblyReference.cache
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.AssemblyInfoInputs.cache
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.AssemblyInfo.cs
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.dll
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.pdb
+F:\Program\Library.Net\WinFormsAspCore\obj\Debug\netcoreapp3.1\WinFormsAspCore.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.csproj.AssemblyReference.cache
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfoInputs.cache
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.AssemblyInfo.cs
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\Email\bin\Debug\netcoreapp3.1\Email.deps.json
+F:\Program\Library.Net\Email\bin\Debug\netcoreapp3.1\Email.dll
+F:\Program\Library.Net\Email\bin\Debug\netcoreapp3.1\Email.pdb
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.dll
+F:\Program\Library.Net\Email\obj\Debug\netcoreapp3.1\Email.pdb

@@ -1,0 +1,14 @@
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.exe
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.deps.json
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.runtimeconfig.json
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.runtimeconfig.dev.json
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.dll
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\ConsoleCoreTest.pdb
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.csproj.AssemblyReference.cache
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.AssemblyInfoInputs.cache
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.AssemblyInfo.cs
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.dll
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.pdb
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.genruntimeconfig.cache

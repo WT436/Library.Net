@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .Login_Default_Container {
+            justify-content: center;
+            align-items: center;
+            justify-items: center;
+            display: flex;
+            position: fixed;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            margin-left: 15%;
+            z-index: 1000;
+        }
+
+            .Login_Default_Container > a > i {
+                position: absolute;
+                top: 20px;
+                right: 20px;
+                font-size: 30px;
+                color: rgba(255, 0, 0, 0.397);
+            }
+
+                .Login_Default_Container > a > i:hover {
+                    color: rgb(255, 0, 0);
+                }
+
+            .Login_Default_Container form {
+                max-width: 500px;
+                border: 1px solid black;
+                border-radius: 10px;
+                background: white;
+                padding: 50px;
+                box-shadow: 0 0 5px rgb(70, 66, 66) inset;
+                box-shadow: 0 0 10px rgb(46, 44, 44) inset;
+                box-shadow: 0 0 15px rgb(73, 72, 72) inset;
+            }
+
+        .activeForm {
+            border: 1px solid rgb(255, 0, 0);
+        }
+
+        .Login_Default_Container > form > img {
+            position: relative;
+            justify-content: center;
+            align-items: center;
+            justify-items: center;
+            min-width: 90px;
+            min-height: 90px;
+            border: 2px solid rgb(114, 252, 1);
+            outline: none;
+            left: 40%;
+        }
+
+        .Login_Default_Container > form > p {
+            width: 100%;
+            text-align: left;
+            font-size: 14px;
+            font-family: monospace;
+        }
+
+        .Login_Default_Container > form > a {
+            width: 100%;
+            text-align: left;
+            font-size: 14px;
+            font-family: monospace;
+        }
+
+        .Login_Default_Container > form > input {
+            width: 20%;
+            min-width: 200px;
+            height: 20px;
+            font-size: 17px;
+            font-weight: 600;
+            padding: 5px 15px;
+            margin: 5px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            border: 1px solid black;
+            outline: none;
+        }
+
+        .Login_Default_Container > form > button {
+            width: 140px;
+            padding: 10px 30px;
+            text-align: center;
+            position: relative;
+            left: 25%;
+            border: none;
+            border-radius: 6px;
+            background: rgba(128, 255, 0, 0.562);
+            outline: none;
+            cursor: pointer;
+        }
+
+            .Login_Default_Container > form > button:hover {
+                background: chartreuse;
+            }
+    </style>
+</head>
+<body>
+    <div class="Login_Default_Container">
+        <form>
+            <img src="[ImgSrc]" alt="[ImgAlt]">
+            <p>[Greeting]: [UserName]. [Instruction]</p>
+            <b>[InstructionUrl]: </b>
+            <a href="[Url]">[Click]</a><br>
+            <b>[VerificationCodesText]</b>
+            <input type="text" value="[VerificationCodes]">
+        </form>
+    </div>
+</body>
+</html>

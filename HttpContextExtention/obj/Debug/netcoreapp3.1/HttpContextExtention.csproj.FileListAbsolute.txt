@@ -1,0 +1,10 @@
+F:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.deps.json
+F:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.dll
+F:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.pdb
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.csproj.AssemblyReference.cache
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.AssemblyInfoInputs.cache
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.AssemblyInfo.cs
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.dll
+F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.pdb

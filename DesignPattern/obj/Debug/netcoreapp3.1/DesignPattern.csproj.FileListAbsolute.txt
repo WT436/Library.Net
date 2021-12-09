@@ -1,0 +1,10 @@
+F:\Program\Library.Net\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.deps.json
+F:\Program\Library.Net\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.dll
+F:\Program\Library.Net\DesignPattern\bin\Debug\netcoreapp3.1\DesignPattern.pdb
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.AssemblyReference.cache
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfoInputs.cache
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.AssemblyInfo.cs
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
+F:\Program\Library.Net\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb

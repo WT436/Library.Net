@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybP3cmfeUQGC/eC1mcurxGMEYvxhMTWFCCu/m1Ecjwxud5zeqmX/WwA7IjF09WTQRT5xkYSAyaMvB8uYzfBABA==",
+  "success": true,
+  "projectFilePath": "F:\\Program\\Library.Net\\Cache\\CacheExtention.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

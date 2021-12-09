@@ -1,0 +1,10 @@
+F:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.deps.json
+F:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.dll
+F:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.pdb
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.csproj.AssemblyReference.cache
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.AssemblyInfoInputs.cache
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.AssemblyInfo.cs
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.csproj.CoreCompileInputs.cache
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.dll
+F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.pdb
