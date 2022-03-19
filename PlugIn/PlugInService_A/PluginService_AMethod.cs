@@ -12,7 +12,19 @@ namespace PlugInService_A
 
         public void DoProcess()
         {
+            LocalizationPluginService localizationPluginService = new LocalizationPluginService();
+            localizationPluginService.AddOrUpdatePluginResourceAsync("", "",true);
             Console.WriteLine("PluginService_A run!");
+        }
+
+        public Task InstallAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task UninstallAsync()
+        {
+            throw new NotImplementedException();
         }
     }
 }

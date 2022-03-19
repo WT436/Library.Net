@@ -29,6 +29,8 @@ namespace PlugInMain
 
         private static void LoadPlugin()
         {
+            LocalizationPluginService localizationPluginService = new LocalizationPluginService();
+            var data = localizationPluginService.GetPluginResourceAsync("IPlugin");
 
             foreach (var dll in Directory.GetFiles(PathLoadPlugIn, "*.dll"))
             {
@@ -44,13 +46,16 @@ namespace PlugInMain
                         continue;
                     }
 
-                    IPlugin? plugin = asm.CreateInstance(type.FullName) as IPlugin;
-
-                    if (plugin != null)
+                    if (data.Any(n => n.Values == typeExample.FullName.ToString()))
                     {
-                        Plugins.Add(Path.GetFileNameWithoutExtension(dll), plugin);
+                        IPlugin? plugin = asm.CreateInstance(type.FullName) as IPlugin;
 
-                        break;
+                        if (plugin != null)
+                        {
+                            Plugins.Add(Path.GetFileNameWithoutExtension(dll), plugin);
+
+                            break;
+                        }
                     }
                 }
             }
