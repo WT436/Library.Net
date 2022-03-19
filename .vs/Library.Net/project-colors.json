@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "baacee63-5950-49c9-aa8c-6e4f9afecf71": {
+      "ProjectGuid": "baacee63-5950-49c9-aa8c-6e4f9afecf71",
+      "DisplayName": "BuildingAspApiCore",
+      "ColorIndex": 0
+    },
+    "323c97cf-c8da-4c05-8caa-dd0ce2e6eb6c": {
+      "ProjectGuid": "323c97cf-c8da-4c05-8caa-dd0ce2e6eb6c",
+      "DisplayName": "BuildingWebAspCore",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

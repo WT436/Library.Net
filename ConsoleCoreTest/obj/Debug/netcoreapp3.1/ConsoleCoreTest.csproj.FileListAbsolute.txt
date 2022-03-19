@@ -12,3 +12,8 @@ F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.c
 F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.dll
 F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.pdb
 F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.genruntimeconfig.cache
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\Security.dll
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\Security.pdb
+F:\Program\Library.Net\ConsoleCoreTest\obj\Debug\netcoreapp3.1\ConsoleCoreTest.csproj.CopyComplete
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\File.dll
+F:\Program\Library.Net\ConsoleCoreTest\bin\Debug\netcoreapp3.1\File.pdb

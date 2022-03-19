@@ -7,3 +7,4 @@ F:\Program\Library.Net\File\obj\Debug\netcoreapp3.1\File.AssemblyInfo.cs
 F:\Program\Library.Net\File\obj\Debug\netcoreapp3.1\File.csproj.CoreCompileInputs.cache
 F:\Program\Library.Net\File\obj\Debug\netcoreapp3.1\File.dll
 F:\Program\Library.Net\File\obj\Debug\netcoreapp3.1\File.pdb
+F:\Program\Library.Net\File\obj\Debug\netcoreapp3.1\File.csproj.AssemblyReference.cache

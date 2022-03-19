@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ConsoleCoreTest/1.0.0": {
+        "dependencies": {
+          "File": "1.0.0",
+          "Security": "1.0.0"
+        },
         "runtime": {
           "ConsoleCoreTest.dll": {}
+        }
+      },
+      "File/1.0.0": {
+        "runtime": {
+          "File.dll": {}
+        }
+      },
+      "Security/1.0.0": {
+        "runtime": {
+          "Security.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleCoreTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Security/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

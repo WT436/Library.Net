@@ -47,7 +47,6 @@ namespace Security.Algorithm
             // Return the encrypted bytes from the memory stream.
             return encrypted;
         }
-
         public string DecryptAES256StringFromBytes_Aes(byte[] cipherText, byte[] Key, byte[] IV)
         {
             // Check arguments.
@@ -90,7 +89,6 @@ namespace Security.Algorithm
 
             return plaintext;
         }
-
         public string EncryptAES256ToString(string textData, string Encryptionkey)
         {
             RijndaelManaged objrij = new RijndaelManaged
@@ -122,7 +120,6 @@ namespace Security.Algorithm
             //Final transform the test string.
             return Convert.ToBase64String(objtransform.TransformFinalBlock(textDataByte, 0, textDataByte.Length));
         }
-
         public string DecryptAES256ToString(string EncryptedText, string Encryptionkey)
         {
             RijndaelManaged objrij = new RijndaelManaged

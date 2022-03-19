@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Program\\Library.Net\\Learnning\\Learnning.csproj": {}
+    "H:\\Program\\Library.Net\\Learnning\\Learnning.csproj": {}
   },
   "projects": {
-    "F:\\Program\\Library.Net\\Learnning\\Learnning.csproj": {
+    "H:\\Program\\Library.Net\\Learnning\\Learnning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Program\\Library.Net\\Learnning\\Learnning.csproj",
+        "projectUniqueName": "H:\\Program\\Library.Net\\Learnning\\Learnning.csproj",
         "projectName": "Learnning",
-        "projectPath": "F:\\Program\\Library.Net\\Learnning\\Learnning.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "F:\\Program\\Library.Net\\Learnning\\obj\\",
+        "projectPath": "H:\\Program\\Library.Net\\Learnning\\Learnning.csproj",
+        "packagesPath": "C:\\Users\\wt436\\.nuget\\packages\\",
+        "outputPath": "H:\\Program\\Library.Net\\Learnning\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\wt436\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
