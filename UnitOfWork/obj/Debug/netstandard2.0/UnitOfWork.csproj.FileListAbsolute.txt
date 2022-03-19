@@ -46,3 +46,15 @@ F:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.csproj.Cor
 F:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.dll
 F:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.xml
 F:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.pdb
+H:\Program\Library.Net\UnitOfWork\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.deps.json
+H:\Program\Library.Net\UnitOfWork\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+H:\Program\Library.Net\UnitOfWork\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.pdb
+H:\Program\Library.Net\UnitOfWork\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.xml
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.csproj.AssemblyReference.cache
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.AssemblyInfoInputs.cache
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.AssemblyInfo.cs
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\UnitOfWork.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.xml
+H:\Program\Library.Net\UnitOfWork\obj\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.UnitOfWork.pdb

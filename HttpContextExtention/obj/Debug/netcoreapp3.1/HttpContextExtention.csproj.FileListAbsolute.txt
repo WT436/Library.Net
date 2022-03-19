@@ -8,3 +8,12 @@ F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextE
 F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.csproj.CoreCompileInputs.cache
 F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.dll
 F:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.pdb
+H:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.deps.json
+H:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.dll
+H:\Program\Library.Net\HttpContextExtention\bin\Debug\netcoreapp3.1\HttpContextExtention.pdb
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.AssemblyInfoInputs.cache
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.AssemblyInfo.cs
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.dll
+H:\Program\Library.Net\HttpContextExtention\obj\Debug\netcoreapp3.1\HttpContextExtention.pdb

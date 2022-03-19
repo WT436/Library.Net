@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Service",
+  "FriendlyName": "C",
+  "SystemName": "Service.C",
+  "Version": "1.39",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "WT436",
+  "DisplayOrder": 1,
+  "FileName": "PlugInService_C.dll",
+  "Description": "Test Plugin C"
+}

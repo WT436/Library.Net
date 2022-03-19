@@ -8,3 +8,12 @@ F:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.csp
 F:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
 F:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb
 F:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.AssemblyReference.cache
+H:\Program\Library.Net\Authentication\bin\Debug\netcoreapp3.1\Authentication.deps.json
+H:\Program\Library.Net\Authentication\bin\Debug\netcoreapp3.1\Authentication.dll
+H:\Program\Library.Net\Authentication\bin\Debug\netcoreapp3.1\Authentication.pdb
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfoInputs.cache
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfo.cs
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
+H:\Program\Library.Net\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb

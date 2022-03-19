@@ -567,21 +567,21 @@ namespace Office.ExcelNpoi
                                 RowIndex = (uint)(i + sheet.RowStart)
                             };
 
-                            for (int j = 0; j < sheet.CellConfig.Count; j++)
-                            {
-                                var cellConfig = sheet.CellConfig[j];
-                                string cellValue = GetObjectFieldValue(
-                                    data,
-                                    cellConfig.FieldName,
-                                    cellConfig.FormatString,
-                                    cellConfig.ZeroToBlank,
-                                    cellConfig.StringUpper,
-                                    false);
-                                Cell newCell = CreateTextCell(sheet.ColumnStart + j + 1,
-                                    Convert.ToInt32((uint)(i + sheet.RowStart)),
-                                    cellValue, cellConfig.FormatString);
-                                dataRow.AppendChild(newCell);
-                            }
+                            //for (int j = 0; j < sheet.CellConfig.Count; j++)
+                            //{
+                            //    var cellConfig = sheet.CellConfig[j];
+                            //    string cellValue = GetObjectFieldValue(
+                            //        data,
+                            //        cellConfig.FieldName,
+                            //        cellConfig.FormatString,
+                            //        cellConfig.ZeroToBlank,
+                            //        cellConfig.StringUpper,
+                            //        false);
+                            //    Cell newCell = CreateTextCell(sheet.ColumnStart + j + 1,
+                            //        Convert.ToInt32((uint)(i + sheet.RowStart)),
+                            //        cellValue, cellConfig.FormatString);
+                            //    dataRow.AppendChild(newCell);
+                            //}
                             sheetProcessData.AppendChild(dataRow);
                         }
                         workSheetProcess.Save();

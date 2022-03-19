@@ -8,3 +8,13 @@ F:\Program\Library.Net\Pictures\bin\Debug\netcoreapp3.1\Pictures.dll
 F:\Program\Library.Net\Pictures\bin\Debug\netcoreapp3.1\Pictures.pdb
 F:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.dll
 F:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.pdb
+H:\Program\Library.Net\Pictures\bin\Debug\netcoreapp3.1\Pictures.deps.json
+H:\Program\Library.Net\Pictures\bin\Debug\netcoreapp3.1\Pictures.dll
+H:\Program\Library.Net\Pictures\bin\Debug\netcoreapp3.1\Pictures.pdb
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.csproj.AssemblyReference.cache
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.AssemblyInfoInputs.cache
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.AssemblyInfo.cs
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.dll
+H:\Program\Library.Net\Pictures\obj\Debug\netcoreapp3.1\Pictures.pdb

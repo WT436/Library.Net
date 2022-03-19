@@ -8,3 +8,13 @@ F:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInf
 F:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
 F:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
 F:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+H:\Program\Library.Net\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+H:\Program\Library.Net\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+H:\Program\Library.Net\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.AssemblyReference.cache
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+H:\Program\Library.Net\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb

@@ -8,3 +8,13 @@ F:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttribu
 F:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.csproj.CoreCompileInputs.cache
 F:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.dll
 F:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.pdb
+H:\Program\Library.Net\FilterAttributeCore\bin\Debug\netcoreapp3.1\FilterAttributeCore.deps.json
+H:\Program\Library.Net\FilterAttributeCore\bin\Debug\netcoreapp3.1\FilterAttributeCore.dll
+H:\Program\Library.Net\FilterAttributeCore\bin\Debug\netcoreapp3.1\FilterAttributeCore.pdb
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.csproj.AssemblyReference.cache
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.AssemblyInfoInputs.cache
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.AssemblyInfo.cs
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.dll
+H:\Program\Library.Net\FilterAttributeCore\obj\Debug\netcoreapp3.1\FilterAttributeCore.pdb

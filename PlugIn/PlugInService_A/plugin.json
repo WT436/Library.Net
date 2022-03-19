@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Service",
+  "FriendlyName": "A",
+  "SystemName": "Service.A",
+  "Version": "1.39",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "WT436",
+  "DisplayOrder": 1,
+  "FileName": "PlugInService_A.dll",
+  "Description": "Test Plugin A"
+}

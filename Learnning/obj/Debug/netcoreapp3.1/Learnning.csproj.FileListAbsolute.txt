@@ -8,3 +8,12 @@ F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.AssemblyInfo.
 F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.csproj.CoreCompileInputs.cache
 F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.dll
 F:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.pdb
+H:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.deps.json
+H:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.dll
+H:\Program\Library.Net\Learnning\bin\Debug\netcoreapp3.1\Learnning.pdb
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.GeneratedMSBuildEditorConfig.editorconfig
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.AssemblyInfoInputs.cache
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.AssemblyInfo.cs
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.csproj.CoreCompileInputs.cache
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.dll
+H:\Program\Library.Net\Learnning\obj\Debug\netcoreapp3.1\Learnning.pdb
