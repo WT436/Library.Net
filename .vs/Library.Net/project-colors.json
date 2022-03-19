@@ -10,7 +10,42 @@
       "ProjectGuid": "323c97cf-c8da-4c05-8caa-dd0ce2e6eb6c",
       "DisplayName": "BuildingWebAspCore",
       "ColorIndex": 1
+    },
+    "f053a2bb-4188-4d2c-b742-7719da539abb": {
+      "ProjectGuid": "f053a2bb-4188-4d2c-b742-7719da539abb",
+      "DisplayName": "WinFormsAspCore",
+      "ColorIndex": 2
+    },
+    "25622cf0-c423-441f-ab06-6c8d5b251c6d": {
+      "ProjectGuid": "25622cf0-c423-441f-ab06-6c8d5b251c6d",
+      "DisplayName": "PlugInMain",
+      "ColorIndex": 3
+    },
+    "50ea9610-e510-4169-abf4-6a18ec2e5ef0": {
+      "ProjectGuid": "50ea9610-e510-4169-abf4-6a18ec2e5ef0",
+      "DisplayName": "PlugInService_A",
+      "ColorIndex": 4
+    },
+    "574ab35f-51ce-4abf-a2a6-102bfd6e5174": {
+      "ProjectGuid": "574ab35f-51ce-4abf-a2a6-102bfd6e5174",
+      "DisplayName": "PlugInService_B",
+      "ColorIndex": 5
+    },
+    "c16b6752-be2e-43ca-9eff-ba277e0bd8ae": {
+      "ProjectGuid": "c16b6752-be2e-43ca-9eff-ba277e0bd8ae",
+      "DisplayName": "PlugInService_C",
+      "ColorIndex": 6
+    },
+    "f4d3d200-9fd0-498a-979b-2e35c55e41da": {
+      "ProjectGuid": "f4d3d200-9fd0-498a-979b-2e35c55e41da",
+      "DisplayName": "ConsoleCoreTest",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 8
 }
