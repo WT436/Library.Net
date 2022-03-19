@@ -49,7 +49,7 @@ namespace PlugInMain
                     if (data.Any(n => n.Values == typeExample.FullName.ToString()))
                     {
                         IPlugin? plugin = asm.CreateInstance(type.FullName) as IPlugin;
-
+                        // ở đây cài một hàm để đọc file json của nó nữa là dk!
                         if (plugin != null)
                         {
                             Plugins.Add(Path.GetFileNameWithoutExtension(dll), plugin);
