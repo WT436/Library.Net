@@ -50,15 +50,6 @@ namespace Thread.ThreadPool.Dto
                 };
             }
 
-            //if (_retryNumber <= 3)
-            //{
-            //    _retryNumber++;
-            //}
-            //if (_retryNumber >= 4)
-            //{
-            //    return null;
-            //}
-
             return sendSmsInline;
         }
     }

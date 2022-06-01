@@ -10,7 +10,7 @@ namespace Thread.ThreadPool
 {
     public class ThreadPoolBasic
     {
-        private static IDictionary<int, AProcessData> keyValuePairs = new Dictionary<int, AProcessData>();
+        private static readonly IDictionary<int, AProcessData> keyValuePairs = new Dictionary<int, AProcessData>();
 
         public static int fali { get; set; } = 0;
 
@@ -21,11 +21,11 @@ namespace Thread.ThreadPool
         public int indexProcessData = 0;
         public void Process()
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
 
             for (var itemThreadPool = 0; itemThreadPool < 10; itemThreadPool++)
             {
-                // cài đặt luồng                  
+                // cài đặt luồng
                 System.Threading.ThreadPool.SetMinThreads(40, 10);
                 System.Threading.ThreadPool.SetMaxThreads(64, 10);
                 // khởi tạo class lưu trữu

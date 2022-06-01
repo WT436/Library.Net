@@ -1,0 +1,30 @@
+﻿@model List<WebMVCCoreTest.Domain.Entity.Countries>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">CountryId</th>
+            <th scope="col">CountryName</th>
+            <th scope="col">RegionId</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CountryId</td>
+                <td>@item.CountryName</td>
+                <td>@item.RegionId</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

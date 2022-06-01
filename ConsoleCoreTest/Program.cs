@@ -1,12 +1,23 @@
 ﻿using File;
+using HttpContextExtention;
 using Security.Algorithm;
 using System;
+using System.Threading.Tasks;
 
 namespace ConsoleCoreTest
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
+        {
+            HttpContextExtention.HttpContextExtention httpContextExtention = new HttpContextExtention.HttpContextExtention("https://localhost:44323/");
+            var data = await httpContextExtention.GetAsync("/api/Home/MethodGet");
+            Console.WriteLine(data);
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
+        }
+
+        private void AES256Process()
         {
             AES256 aES256 = new AES256();
             string text = System.IO.File.ReadAllText(@"F:\Program\Library.Net\TextFile1.txt");
