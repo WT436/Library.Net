@@ -35,13 +35,12 @@ namespace Thread.ThreadPool
                 while (System.Threading.ThreadPool.PendingWorkItemCount != 0)
                 {
                     Console.WriteLine($"Đang sử lý : {System.Threading.ThreadPool.ThreadCount} | "
-                        + $"Đã gửi : {System.Threading.ThreadPool.CompletedWorkItemCount} | "
-                        + $"Hàng đợi : {System.Threading.ThreadPool.PendingWorkItemCount} | "
-                        + $"Thất bại : {fali} | "
-                        + $"Thành công : {suss} | "
-                        + $"Hoàn thành : { Convert.ToDouble((suss + fali) * 100) / Convert.ToDouble(0):0.00}% | "
-                        + $"Thời gian : {DateTime.UtcNow.Subtract(dateTimeStart)} ms"
-                        );
+                    + $"Đã gửi : {System.Threading.ThreadPool.CompletedWorkItemCount} | "
+                    + $"Hàng đợi : {System.Threading.ThreadPool.PendingWorkItemCount} | "
+                    + $"Thất bại : {fali} | "
+                    + $"Thành công : {suss} | "
+                    + $"Hoàn thành : { Convert.ToDouble((suss + fali) * 100) / Convert.ToDouble(0):0.00}% | "
+                    + $"Thời gian : {DateTime.UtcNow.Subtract(dateTimeStart)} ms" );
                 }
             }
         }

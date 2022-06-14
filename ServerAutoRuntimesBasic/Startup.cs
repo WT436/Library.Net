@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using ServerAutoRuntimesBasic.Application;
+using ServerAutoRuntimesBasic.Service;
 using WriteLogExtention.Application;
 
 namespace ServerAutoRuntimesBasic
@@ -15,6 +15,7 @@ namespace ServerAutoRuntimesBasic
         {
             Configuration = configuration;
             coordinator = new Coordinator();
+            coordinator.StartThreads();
         }
 
         public IConfiguration Configuration { get; }

@@ -9,6 +9,7 @@ namespace OracleLibaryQuery
 {
     public interface IOracleDbContext
     {
+        int InsertRanger<T>(string sql, List<OracleFillParameter> parameters, List<T> data);
         IEnumerable<TEntity> ExecuteReader<TEntity>(string sql, List<OracleFillParameter> parameters) where TEntity : class, new();
         Task<IEnumerable<TEntity>> ExecuteReaderAsync<TEntity>(string sql, List<OracleFillParameter> parameters) where TEntity : class, new();
         IEnumerable<TEntity> ExecuteReader<TEntity>(string sql) where TEntity : class, new();

@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Thread.ThreadPool.Dto
+namespace ServerAutoRuntimesBasic.Domain.Shared.Entitys
 {
     public class SendSms
     {
@@ -13,12 +9,12 @@ namespace Thread.ThreadPool.Dto
         [MaxLength(32)]
         public string MessageId { get; set; } = Guid.NewGuid().ToString();
         [RegularExpression(@"(^(84|0))([0-9]{4,10}$)", ErrorMessage = "Destination must be in the form 84xxxx, 0xxx")]
-        public string? Destination { get; set; }
-        public string? Sender { get; set; }
-        public string? Keyword { get; set; }
+        public string Destination { get; set; }
+        public string Sender { get; set; }
+        public string Keyword { get; set; }
         [MaxLength(480, ErrorMessage = "Short Message should not be greater than 480")]
-        public string? ShortMessage { get; set; }
-        public string? EncryptMessage { get; set; }
+        public string ShortMessage { get; set; }
+        public string EncryptMessage { get; set; }
         [Range(0, 1, ErrorMessage = "IsEncrypt only 0 or 1")]
         public int IsEncrypt { get; set; }
         [Range(0, 1, ErrorMessage = "Type only 0 or 1")]
